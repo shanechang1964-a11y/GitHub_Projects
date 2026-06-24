@@ -1,3 +1,10 @@
 # GitHub_PROJECTS
 My first GitHub repository.
-Learning Git, GitHub, Python and Quant Trading.
+# Learning goals
+- Git
+- GitHub
+- VSCode 
+- Python 
+- Jupyter Notebook
+- Quant Trading 
+- AI Agent
